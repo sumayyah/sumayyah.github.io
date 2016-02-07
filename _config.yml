@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   #Projects: "projects"
-  #About Me: "aboutme"
+  About Me: "aboutme"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
@@ -38,7 +38,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Sumayyah Ahmed
-  #email: "youremail@domain.com"
+  email: "sumayyah16.m@gmail.com"
   #facebook: yourname  # eg. daattali
   github: sumayyah    # eg. daattali
   #twitter: yourname   # eg. daattali
