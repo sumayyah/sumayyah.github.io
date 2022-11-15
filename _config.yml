@@ -11,6 +11,9 @@ description: Android Engineer at Square
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sumayyah/sumayyah.github.io/master/images/headshot_speaking.png
 
+# Theme
+theme: minima
+
 #
 # Flags below are optional
 #
