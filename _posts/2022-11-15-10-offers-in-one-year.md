@@ -1,8 +1,8 @@
 ---
-title: "19 Interviews in One Year"
+title: "10 Offers in One Year"
 date: 2022-11-13
 ---
-I quit my job in the summer of 2021 to take a sabbatical from work, and jumped back into the job market in 2022. Despite the hiring freezes, layoffs, and general uncertainty, I interviewed with 19 companies, totaling more than 100 rounds, and eventually ended up with 10 offers at the Senior or Principal level. These companies were FAANGs, but also in tech, finance, real estate, and media.
+I quit my job in the summer of 2021 to take a sabbatical from work, and jumped back into the job market in 2022. Despite the hiring freezes, layoffs, and general uncertainty, I interviewed with 19 companies, totaling more than *100 rounds*, and eventually ended up with 10 offers (!!) at the Senior level or above. These companies were FAANGs, but also in tech, finance, real estate, and media.
 
 It was a long, fun, exhausting process, and I’m taking notes here in case this helps anyone else (and to be honest, for future me as well).
 &nbsp;
