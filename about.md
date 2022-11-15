@@ -6,10 +6,12 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a Senior Android Developer at Square, and this is my tenth (!) year of Android development. In that time, I've worked at early-stage startups, large corporations, and freelanced. It's been a long and fun journey, and to this day I enjoy making robust, performant, delightful apps. 
+
+I'm also a frequent conference speaker on Android and career topics, so check out my Speaking page to see my old talks. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sumayyah.at.work@gmail.com](mailto:sumayyah.at.work@gmail.com)
