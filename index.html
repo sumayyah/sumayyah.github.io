@@ -8,6 +8,10 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <em class="post-meta">
+        {{ post.date | date: "%B %e, %Y" }} · {% include read-time.html content=post.content %}
+      </em>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
