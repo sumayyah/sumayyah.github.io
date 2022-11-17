@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### About Me
 
 I'm currently a Senior Android Developer at Square, and this is my tenth (!) year of Android development. In that time, I've worked at early-stage startups, large corporations, and freelanced. It's been a long and fun journey, and to this day I enjoy making robust, performant, delightful apps. 
