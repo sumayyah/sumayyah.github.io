@@ -4,6 +4,21 @@ title: Public Speaking
 permalink: /public-speaking/
 ---
 
+## 2024
+
+- **KotlinConf 2024 (Copenhagen):** [Making the Big Kotlin Multiplatform Decision](https://www.youtube.com/watch?v=oqEU8Rb7XYQ)
+- **DroidCon New York:** [Making the Big Kotlin Multiplatform Decision](https://www.droidcon.com/2024/10/17/making-the-big-kotlin-multiplatform-decision/)
+
+  Extracurricular: DroidCon NYC 2024 Call For Papers Committee
+
+## 2023
+
+- **DroidCon New York:** [Powering up Dagger for Less Code and Cleaner Architecture](https://www.droidcon.com/2023/10/06/powering-up-dagger-for-less-code-and-cleaner-architecture/)
+- **DroidCon New York:** [Panel: Fireside Chat with Google Developer Experts](https://www.droidcon.com/2023/10/06/fireside-chat-with-google-developers-expert/)
+- **Google Developer Experts Podcast:** [Working in Today's Android Ecosystems](https://goo.gle/btb-march23-twt)
+
+Extracurricular: DroidCon NYC 2023 Call For Papers Committee
+
 ## 2022
 
  - **DroidCon London:** [Breaking the Rules: Dynamic Navigation in Modularized Apps](https://www.droidcon.com/2022/11/15/breaking-the-rules-dynamic-navigation-in-modularized-apps-2/)
@@ -14,6 +29,7 @@ permalink: /public-speaking/
 - **Harvard WeCode:** Panel: Career Paths in Tech
 
 Extracurricular: DroidCon NYC 2022 Call For Papers Committee
+
 ## 2021
 
 - **Chicago Roboto:** Dynamic Navigation in Modularized Apps
@@ -22,5 +38,6 @@ Extracurricular: DroidCon NYC 2022 Call For Papers Committee
 - **Harvard WeCode:** A Career in Mobile App Development
 
 ## 2020
+
 - **DroidCon Americas:** [When ViewModels Go to Die: Saving ViewModel State](https://www.droidcon.com/2020/11/17/when-viewmodels-go-to-die-saving-viewmodel-state/?video=481205520)
 - **IGNITE Worldwide:** Panel: Career Paths in STEM
